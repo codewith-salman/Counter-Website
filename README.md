@@ -3,9 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO SECTION (replace path when needed) -->
-<img src="assets/images/logo.png" alt="Counter Logo" width="140" />
-
 <br /><br />
 
 ## 🧮 Counter Website  
@@ -19,7 +16,7 @@ Fully responsive, clean, and visually engaging.
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Counter/desktop.png" alt="Counter Website Desktop Screenshot" width="100%" />
+<img src="Counter/desktop.png" alt="Counter Website Desktop Screenshot" width="80%" />
 
 **Counter Website** allows users to increase, decrease, and reset a numerical counter.  
 It’s a simple, beginner-friendly project that demonstrates **JavaScript DOM manipulation** and smooth UI interactions.  
