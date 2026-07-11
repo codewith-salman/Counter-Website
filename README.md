@@ -73,7 +73,6 @@ Ideal for:
 
 - Fully responsive counter application
 - Increase, decrease, and reset functionality
-- Real-time counter updates
 - Smooth button interactions
 - Clean and minimal user interface
 - Lightweight and beginner-friendly codebase
