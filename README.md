@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Counter/desktop.png" alt="Counter Website Logo" width="120"/>
+<img src="Counter/favicon.png" alt="Counter Website Logo" width="120"/>
 
 <br />
 <br />
